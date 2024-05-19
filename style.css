@@ -1,0 +1,44 @@
+.copy_right_footer
+  {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+  }
+
+  body 
+  {
+    background-color: gold;
+    background-position: center;
+    background-size: cover;
+    border-color: darkgoldenrod;
+    border-radius: 10px;
+  }
+  
+h5 
+{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: darkgray;
+  border:5px solid black ;
+  border-radius: 20px;
+}
+
+.mini_result
+{
+  font-size: 20px;
+  font-family: fantasy;
+  border-color: darkgoldenrod;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+div
+{
+  border-color: black;
+  border-radius: 5px;
+  border-style: groove;
+}
